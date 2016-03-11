@@ -1,5 +1,5 @@
 require './config/environment'
-require '.app/models/tweet'
+require './app/models/tweet'
 
 # classes are app facteries, and they pump out 
 # new instancees of your App whenever users want it

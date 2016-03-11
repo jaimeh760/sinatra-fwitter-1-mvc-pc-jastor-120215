@@ -6,7 +6,7 @@ class Tweet
     def initialize(username, status)
         @username = username
         @status = status
-        #ALL_TWEETS << self 
+        ALL_TWEETS << self 
         # adds itself to ALL_TWEETS
     end
     
